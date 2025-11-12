@@ -33,6 +33,17 @@ Append `reactCompiler: true,` in next.config.ts
 Routes:-
 - To have multiple pages in the website we need routing and Next.js support file based routing.
 
+Nested routes:
+- routes inside routes
+
+Dynamic routes: 
+- if we have to show data for many different users for example we can not create a new page or file directory for each users as the pages while increase as the users increase so there is a need of dynamic routing
+- we use params to perform dynamic routing:
+    const UserDetails = async ({ params }: { params: Promise<{ id: string }>}) => {
+    const { id } = await params}
+
 ### Tasks performed
 
 - created a NextJS project
+- performed static routing
+- performed nested and dynamic routing
