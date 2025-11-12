@@ -30,6 +30,9 @@ then
 
 Append `reactCompiler: true,` in next.config.ts
 
+Routes:-
+- To have multiple pages in the website we need routing and Next.js support file based routing.
+
 ### Tasks performed
 
 - created a NextJS project

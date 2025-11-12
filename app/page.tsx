@@ -1,4 +1,4 @@
-import Hello from "@/app/components/Hello"
+import Hello from "@/components/Hello"
 
 export default function Home() {
 	console.log('Server component')
