@@ -1,12 +1,12 @@
-export default function Home() {
+import Hello from "@/app/components/Hello"
 
-	
+export default function Home() {
+	console.log('Server component')
 
 	return (
-		<div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-			<h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50 underline">
-				Hello World
-			</h1>
-		</div>
+		<main>
+			<div className="text-5xl underline">Hello World</div>
+			<Hello />
+		</main>
 	);
 }
