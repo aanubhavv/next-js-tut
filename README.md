@@ -1,4 +1,4 @@
-# React Course
+# Next.js Course
 
 This repository contains my daily progress and code implementations while following the **Next.js 16 tutorial series** by [Javascript Mastery](https://www.youtube.com/@javascriptmastery).  
 Each branch represents the work completed on a specific day of the course.
