@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# React Course
 
-## Getting Started
+This repository contains my daily progress and code implementations while following the **Next.js 16 tutorial series** by [Javascript Mastery](https://www.youtube.com/@javascriptmastery).  
+Each branch represents the work completed on a specific day of the course.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 📚 Course Reference
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🎥 **Tutorial Video:** [Next.js 16 Full Course by Javascript Mastery](https://youtu.be/I1V9YWqRIeI?si=MfxftMRJ_EroSTGZ)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🗂️ Repository Structure
 
-## Learn More
+- **`main` branch:** Overview and general setup
+- **`day-1` branch:** [Basics and Components](/logs/day1.md)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### ⚙️ Topics Covered
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Throughout the branches, the repository covers key Next.js concepts including:
 
-## Deploy on Vercel
+- Next.js Architecture
+- Client and Server Components
+- Rendering Strategies (Client-Side vs. Server-Side)
+- File-Based Routing (including Nested and Dynamic Routes)
+- Full Stack Capabilities with API Routes
+- Built-in Performance Optimizations (Code Splitting, Font/Image/Script Optimization)
+- React Compiler Support
+- Project Structure
+- Layouts and Route Groups
+- Error Handling
+- Loading UIs
+- Forbidden and Unauthorized Pages
+- Data Fetching (Server-Side vs. Client-Side)
+- Database Modeling with MongoDB and Mongoose
+- Creating RESTful API Routes
+- Server Actions
+- Caching Mechanisms
+- Image Upload and Hosting
+- Product Analytics and Web Analytics Integration
+- AI-Assisted Development Tools
+- Code Review Tools
+- Deployment to Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 💡 Purpose
+
+This project serves as a **personal learning log** and **reference repository** for anyone following the same tutorial or learning Next.js.
+
+---
