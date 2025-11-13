@@ -1,4 +1,5 @@
 import Hello from "@/components/Hello"
+import AlbumsServer from "@/components/AlbumsServer";
 
 export default function Home() {
 	console.log('Server component')
@@ -7,6 +8,7 @@ export default function Home() {
 		<main>
 			<div className="text-5xl underline">Hello World</div>
 			<Hello />
+			<AlbumsServer />
 		</main>
 	);
 }
