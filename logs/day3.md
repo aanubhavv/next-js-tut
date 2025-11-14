@@ -27,4 +27,4 @@ Search Engine Optimization (SEO):
 
 ### Tasks performed
 
-- 
+- Started building DevEvents Project with the acquired knowledge so far.
