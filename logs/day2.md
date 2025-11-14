@@ -1,7 +1,5 @@
 # Day 2
 
-## commands used:
-
 ### Theory
 
 - layout.tsx acts as the parent for all the routes.
