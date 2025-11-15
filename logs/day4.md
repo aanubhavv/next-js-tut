@@ -1,9 +1,6 @@
 # Day 4
 
-### Theory
-
--
-
 ### Tasks performed
 
-- 
+- Created database models
+- Added api routes to enter data entry in mongodb.
